@@ -31,7 +31,7 @@
     "commander": ">= 2.0.0",
     "istanbul": ">= 0.1.44"
   },
-  "repository": "https://github.com/e2ebridge/bpmn.git",
+  "repository": "https://github.com/czjs2/bpmn.git",
   "author": "support@e2ebridge.com",
   "license": "MIT"
 }
